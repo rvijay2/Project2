@@ -419,7 +419,7 @@ However, while the current model is effective for many standard use cases, there
 
 ### **1.GBT Predictions vs True Values on Concrete Data**
 
-![GBT Predictions vs True Values](https://github.com/anusha-2002/project22/blob/main/images/GBT_Predictions_Concrete_Data.png?raw=true)
+![GBT Predictions vs True Values](https://github.com/Spring2025CS584/Project2/blob/3c4e751c743c31357a6eeaddf263bd5abbd69182/images/GBT_Predictions_Concrete_Data.png?raw=true)
 
 ## Key Findings from the Plot:
 a. The plot comparing true values (blue dots) and predicted values (red crosses) provides a clear visual assessment of the model's predictive accuracy.
@@ -445,7 +445,7 @@ Fine-tuning hyperparameters, exploring feature engineering techniques, or experi
 
 ### **2.GBT Predictions on Iris Dataset**
 
-![GBT_Predictions_Iris](https://github.com/anusha-2002/project22/blob/main/images/GBT_Predictions_Iris.png?raw=true)
+![GBT_Predictions_Iris](https://raw.githubusercontent.com/Spring2025CS584/Project2/3c4e751c743c31357a6eeaddf263bd5abbd69182/images/GBT_Predictions_Iris.png)
 
 ## Key Findings from the Plot:
 
